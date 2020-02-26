@@ -1,0 +1,8 @@
+{
+  "name": "datacollect",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "demo3",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
